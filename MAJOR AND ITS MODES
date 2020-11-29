@@ -1,0 +1,65 @@
+1. Major scale(ionian mode)= C D E F G A B
+                             1 2 3 4 5 6 7
+Formula= W W H W W W H (Double-whole-tone Half-tone Triple-whole-tone Half-tone)
+Tonal quality = Happy
+Rep chord= RootMajor7th
+Chords = Cmaj Dmin Emin Fmaj Gmaj Amin B°
+         I ii iii IV V vi vii°
+
+
+2. Dorian mode(minor with a raised 6)= C D Eb F G A Bb
+                                       1 2 b3 4 5 6 b7
+Formula= W H W W W H W (Whole-tone Half-tone Triple-whole-tone Half-tone Whole-tone)
+Tonal quality = Unsettling/sad/rock
+Rep chord= RootMinor7th
+Chords = Cmin Dmin Ebmaj Fmaj Gmin A° Bbmaj
+         i ii bIII IV v vi° bVII
+
+
+3. Phrygian mode= C Db Eb F G Ab Bb
+                  1 b2 b3 4 5 b6 b7
+Formula= H W W W H W W (Half-tone Triple-whole-tone Half-tone Double-Whole-tone)
+Tonal quality = Uneasy/egyptian
+Rep chord= RootMinor7th
+
+Chords = Cmin Dbmaj Ebmaj Fmin Gdim Abmaj Bbmin
+         i bII bIII iv v° bVI bvii
+
+
+4. Lydian mode= C D E F# G A B (tritone)
+                1 2 3 #4 5 6 7
+Formula= W W W H W W H (Triple-whole-tone Half-tone Double-Whole-tone Half-tone)
+Tonal quality = Wonder
+Rep chord= RootMaj7th/ Root-#4-5 (lydian chord)
+
+Chords = Cmaj Dmaj Emin F#° Gmaj Amin Bmin
+         I II iii iv° V vi vii
+
+
+5. Myxolydian mode= C D E F G A Bb
+                    1 2 3 4 5 6 b7
+Formula= W W H W W H W (Double-Whole-tone Half-tone Double-Whole-tone Half-tone Whole-tone)
+Tonal quality = Nostalgic
+Rep chord= RootDom7th
+
+Chords = Cmaj Dmin Emin Fmaj Gmin Amin Bbmaj
+         I ii iii IV v vi bVII
+
+
+6. Aeolian mode/Natural minor scale= C D Eb F G Ab Bb
+                                     1 2 b3 4 5 b6 b7
+Formula= W H W W H W W (Whole-tone Half-tone Double-Whole-tone Half-tone Double-Whole-tone)
+Tonal quality = sad/rock
+Rep chord= RootMinor7th
+
+Chords = Cmin Ddim Ebmaj Fmin Gmin Abmaj Bbmaj
+         i ii° bIII iv v bVI bVII
+
+7. Locrian mode= C Db Eb F Gb Ab Bb
+                  1 b2 b3 4 b5 b6 b7
+Formula= H W W H W W W (Half-tone Double-Whole-tone Half-tone Triple-whole-tone)
+Tonal quality = Uneasy
+Rep chord= RootDim
+
+Chords = Cdim Dbmaj Ebmin Fmin Gbmaj Abmaj Bbmin
+         i° bII, biii, iv, bV, bVI, bvii)
